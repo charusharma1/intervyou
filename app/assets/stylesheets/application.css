@@ -61,6 +61,23 @@
  *= require theme/dragtable
  *= require theme/font-awesome.min
  *= require theme/owl.carousel
+ *= require theme/animate
+ *= require theme/bootstrap.min
+ *= require theme/blue
+ *= require theme/brown
+ *= require theme/dark-blue
+ *= require theme/dark-red
+ *= require theme/green
+ *= require theme/light-green
+ *= require theme/orange
+ *= require theme/purple
+ *= require theme/red
+ *= require theme/yellow
+ *= require theme/color-switcher
+ *= require theme/custom
+ *= require theme/dragtable
+ *= require theme/font-awesome.min
+ *= require theme/owl.carousel
  *= require_tree .
  *= require_self
  */
